@@ -1,6 +1,6 @@
 # modern-login-page-ui
 
-https://www.youtube.com/watch?v=9g7rFjOuggU
+responsive
 
 **install vscode extension**
 - Live Server by Ritwick Dey
@@ -11,3 +11,5 @@ then it will automatically create style.css file
 
 **run live server**
 - open index.html file and click Open with Live Server
+
+https://www.youtube.com/watch?v=9g7rFjOuggU
