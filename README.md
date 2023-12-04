@@ -10,4 +10,4 @@ create style.scss and add code in style.scss. click on "Watch Sass" to compile y
 then it will automatically create style.css file
 
 **run live server**
-open index.html file and click Open with Live Server
+- open index.html file and click Open with Live Server
